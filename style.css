@@ -1,0 +1,13 @@
+body {
+  background-color: darkcyan;
+}
+
+form {
+  text-align: center;
+  background-color: rgb(97, 235, 212);
+  border-style: inset;
+  border-color: black;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 10px;
+}
